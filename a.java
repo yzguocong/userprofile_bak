@@ -4,3 +4,5 @@ hello.class
 我是修改第一次
 我是第二次修改
 添加新功能
+
+fix bug
